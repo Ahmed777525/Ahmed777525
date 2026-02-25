@@ -6,7 +6,7 @@ Leveraging AI for smarter development | Git & GitHub Pro | Passionate about clea
 
 - 🌍 Location: Sanaa, Yemen
 - 💼 Freelancer / Independent Developer
-- 🔗 Portfolio: [ahmed-portfolio.com](https://ahmed-portfolio.com)
+- 🔗 Portfolio: [ahmed-portfolio.com](github.com/Ahmed777525)
 
 ---
 
