@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ahmed Dawood
 
 ## 🧑‍💻 About Me
-Senior Laravel Developer | PHP 8.3 & Laravel 12 Expert | Building Scalable Web & B2B E-commerce Platforms  
+Full Stack Developer (Laravel) | PHP 8.3 & Laravel 12 Expert | Building Scalable Web & B2B E-commerce Platforms  
 Leveraging AI for smarter development | Git & GitHub Pro | Passionate about clean code & best practices 🚀  
 
 - 🌍 Location: Sanaa, Yemen
