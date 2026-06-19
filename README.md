@@ -22,7 +22,7 @@ Leveraging AI for smarter development | Git & GitHub Pro | Passionate about clea
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | B2B E-commerce | Multi-vendor platform for rice distribution | Laravel 12, Tailwind CSS, MySQL | [GitHub](https://github.com/Ahmed777525/rice-b2b) |
-| future-university-platform | Future University Platform – Comprehensive platform for academic, administrative, and student services. | Laravel 12, Tailwind CSS, MySQL, AI tools | [GitHub]([#](https://github.com/Ahmed777525/future-university-platform)) |
+| future-university-platform | Future University Platform – Comprehensive platform for academic, administrative, and student services. | Laravel 12, Tailwind CSS, MySQL, AI tools | [GitHub](https://github.com/Ahmed777525/future-university-platform) |
 
 ---
 
